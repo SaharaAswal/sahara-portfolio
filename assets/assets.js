@@ -82,25 +82,25 @@ export const workData = [
   {
     title: "Mobile app",
     description: "Frontend Dev",
-    bgImage: "/work/mobile-banking.png",
+    bgImage: "work/mobile-banking.png",
     link: "/mobile-app",
   },
   {
     title: "Banking website",
     description: "Web Dev",
-    bgImage: "/work/web-design.png",
+    bgImage: "work/web-design.png",
     link: "/web-project",
   },
   {
     title: "API service",
     description: "Backend",
-    bgImage: "/work/api-creation.png",
+    bgImage: "work/api-creation.png",
     link: "/api-creation",
   },
   {
     title: "Financial analysis",
     description: "Data reporting",
-    bgImage: "/work/data-visual.png",
+    bgImage: "work/data-visual.png",
     link: "/data-analysis-project",
   },
 ];
