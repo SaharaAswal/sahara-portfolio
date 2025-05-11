@@ -12,7 +12,7 @@ export default function webProjectPage() {
         style={{ margin: "2rem 0", display: "flex", justifyContent: "center" }}
       >
         <Image
-          src="./data-visual.png"
+          src="./work/data-visual.png"
           alt="data visual screenshot"
           width={400}
           height={350}

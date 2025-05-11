@@ -11,7 +11,7 @@ export default function mobileAppPage() {
         style={{ margin: "2rem 0", display: "flex", justifyContent: "center" }}
       >
         <Image
-          src="./mobile-banking.png"
+          src="./work/mobile-banking.png"
           alt="Bob Bank Project Screenshot"
           width={400}
           height={350}

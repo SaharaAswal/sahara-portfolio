@@ -13,7 +13,7 @@ export default function webProjectPage() {
         style={{ margin: "2rem 0", display: "flex", justifyContent: "center" }}
       >
         <Image
-          src="./api-creation.png"
+          src="./work/api-creation.png"
           alt="backend screenshot"
           width={400}
           height={350}
