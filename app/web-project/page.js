@@ -1,9 +1,5 @@
 import Image from "next/image";
 import React from "react";
-import { useRouter } from 'next/router';
-
-const { basePath } = useRouter();
-
 
 export default function webProjectPage() {
   return (
@@ -16,7 +12,7 @@ export default function webProjectPage() {
         style={{ margin: "2rem 0", display: "flex", justifyContent: "center" }}
       >
         <Image
-          src={`${basePath}/work/web-design.png`} 
+          src="/work/web-design.png"
           alt="web design screenshot"
           width={400}
           height={350}
