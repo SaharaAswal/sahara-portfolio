@@ -1,3 +1,4 @@
+import { assets } from "@/assets/assets";
 import Image from "next/image";
 import React from "react";
 
@@ -11,7 +12,7 @@ export default function mobileAppPage() {
         style={{ margin: "2rem 0", display: "flex", justifyContent: "center" }}
       >
         <Image
-          src="/cert-imgs/in-progress.png"
+          src={assets.in_progress}
           alt="Data Analytics Screenshot"
           width={400}
           height={350}

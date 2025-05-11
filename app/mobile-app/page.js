@@ -1,3 +1,4 @@
+import { assets } from "@/assets/assets";
 import Image from "next/image";
 import React from "react";
 
@@ -11,7 +12,7 @@ export default function mobileAppPage() {
         style={{ margin: "2rem 0", display: "flex", justifyContent: "center" }}
       >
         <Image
-          src="work/mobile-banking.png"
+          src={assets.mobile_banking}
           alt="Bob Bank Project Screenshot"
           width={400}
           height={350}

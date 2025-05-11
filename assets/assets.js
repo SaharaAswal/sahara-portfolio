@@ -36,7 +36,12 @@ import data_visual from "./data_visual.png";
 import development_icon from "./development_icon.png";
 import search from "./search.png";
 import sahara_photo from "./Sahara_Photo.png";
-import scholar from "./scholar.png"
+import scholar from "./scholar.png";
+import in_progress from "./in-progress.png";
+import api_creation from "./api-creation.png";
+import dataVisual from "./data-visual.png";
+import mobile_banking from "./mobile-banking.png";
+import web_design from "./web-design.png"
 
 export const assets = {
   code_icon,
@@ -77,7 +82,12 @@ export const assets = {
   search,
   saharaLogo,
   sahara_photo,
-  scholar
+  scholar,
+  in_progress,
+  api_creation,
+  dataVisual,
+  mobile_banking,
+  web_design
 };
 
 export const workData = [
