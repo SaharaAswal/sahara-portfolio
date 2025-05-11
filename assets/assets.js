@@ -36,6 +36,7 @@ import data_visual from "./data_visual.png";
 import development_icon from "./development_icon.png";
 import search from "./search.png";
 import sahara_photo from "./Sahara_Photo.png";
+import scholar from "./scholar.png"
 
 export const assets = {
   code_icon,
@@ -76,6 +77,7 @@ export const assets = {
   search,
   saharaLogo,
   sahara_photo,
+  scholar
 };
 
 export const workData = [

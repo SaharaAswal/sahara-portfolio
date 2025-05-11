@@ -1,3 +1,4 @@
+import { assets } from "@/assets/assets";
 import Image from "next/image";
 import React from "react";
 
@@ -9,7 +10,7 @@ export default function mobileAppPage() {
         style={{ margin: "2rem 0", display: "flex", justifyContent: "center" }}
       >
         <Image
-          src="/cert-imgs/scholar.png"
+          src={assets.scholar}
           alt="Scholar Screenshot"
           width={400}
           height={350}
