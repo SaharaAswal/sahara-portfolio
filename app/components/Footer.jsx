@@ -8,7 +8,7 @@ const Footer = ({ isDarkMode }) => {
             <div className='text-center'>
                 <Image src={ assets.saharaLogo} alt='logo' className='w-36 mx-auto mb-2' />
                 <div className='w-max flex items-center gap-2 mx-auto'>
-                    <Image src={isDarkMode ? assets.arrow_icon_dark : assets.mail_icon} alt='mail-icon' className='w-6' />
+                    <Image src={isDarkMode ? assets.mail_icon_dark : assets.mail_icon} alt='mail-icon' className='w-6' />
                     sahara.aswalofficial@gmail.com
                 </div>
             </div>
