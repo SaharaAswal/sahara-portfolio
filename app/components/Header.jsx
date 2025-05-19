@@ -36,7 +36,7 @@ const Header = () => {
                     initial={{ y: 30, opacity: 0 }}
                     whileInView={{ y: 0, opacity: 1.2 }}
                     transition={{ duration: 0.6, delay: 1 }}
-                    href='/sahara_resume_portfolio.pdf' download className='px-10 py-3 border rounded-full border-gray-500 flex items-center gap-2 bg-white dark:text-black '>My resume <Image src={assets.download_icon} alt='download-icon' className='w-4' /></motion.a>
+                    href='https://drive.google.com/drive/folders/11sSlY2SEVT3F7hZAFwd5SW197FSATyss' className='px-10 py-3 border rounded-full border-gray-500 flex items-center gap-2 bg-white dark:text-black '>My resume <Image src={assets.arrow_icon} alt='download-icon' className='w-4' /></motion.a>
             </div>
         </div>
     )
