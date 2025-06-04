@@ -6,7 +6,7 @@ export default function mobileAppPage() {
   return (
     <main style={{ padding: "2rem", textAlign: "center" }}>
       <h2 className="text-center mb-2 text-5xl font-Ovo">
-        Data Analytics with Gen AI
+        Data Analytics
       </h2>
       <div
         style={{ margin: "2rem 0", display: "flex", justifyContent: "center" }}
