@@ -199,7 +199,7 @@ export const certifications = [
   },
   {
     title: "Data Analytics",
-    issuer: "Coding Ninjas",
+    issuer: "In progress",
     link: "data-analytics",
     image: "cert-imgs/in-progress.png",
   },
