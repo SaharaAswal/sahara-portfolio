@@ -39,7 +39,7 @@ const About = ({ isDarkMode }) => {
                     whileInView={{ opacity: 1, }}
                     transition={{ duration: 0.6, delay: 0.8 }}
                     className='flex-1'>
-                    <p className='mb-10 max-w-2xl font-Ovo'>
+                    <p className='mb-5 max-w-2xl font-Ovo'>
                          Started as a Power BI intern at VertexPlus (Nokia Vendor), now working at Accenture on web and mobile projects to develop user-centric, responsive interfaces, with exposure to backend technologies too.
                     </p>
                         <p className='mb-10 max-w-2xl font-Ovo'>
