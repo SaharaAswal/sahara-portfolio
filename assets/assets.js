@@ -217,7 +217,7 @@ export const infoList = [
     icon: assets.edu_icon,
     iconDark: assets.edu_icon_dark,
     title: "Education",
-    description: "X(CBSE): 10\nXII(CBSE): 90.2%\nB.E.(TIET): 8.56",
+    description: "X(CBSE): 10\nXII(CBSE): 90.2%\nB.E.(TIET): 8.61",
   },
   {
     icon: assets.project_icon,
